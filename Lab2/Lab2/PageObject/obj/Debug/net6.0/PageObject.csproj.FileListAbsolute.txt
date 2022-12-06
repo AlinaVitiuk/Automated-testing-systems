@@ -1,0 +1,30 @@
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\PageObject.deps.json
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\PageObject.dll
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\PageObject.pdb
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.AssemblyReference.cache
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfoInputs.cache
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfo.cs
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.CoreCompileInputs.cache
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.dll
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\refint\PageObject.dll
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.pdb
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\ref\PageObject.dll
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\bin\Debug\net6.0\PageObject.deps.json
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\bin\Debug\net6.0\PageObject.dll
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\bin\Debug\net6.0\PageObject.pdb
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\obj\Debug\net6.0\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfo.cs
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\obj\Debug\net6.0\PageObject.dll
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\obj\Debug\net6.0\refint\PageObject.dll
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\obj\Debug\net6.0\PageObject.pdb
+C:\Users\admin\Desktop\3 course\Автоматизоване тестування\ЛР №2\Lab2 2\Lab2\PageObject\obj\Debug\net6.0\ref\PageObject.dll
